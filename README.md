@@ -1,4 +1,6 @@
-# Hello World! I'm Augusto! 👋<br><br><hr>🎓 Information Systems student, focused on Front-End and UX/UI Design<br>💻 Currently learning JavaScript, TypeScript, and frameworks like React
+# Hello World! I'm Augusto! 👋<br><br>
+---
+🎓 Information Systems student, focused on Front-End and UX/UI Design<br>💻 Currently learning JavaScript, TypeScript, and frameworks like React
 
 
 ## 🌐 Socials:
